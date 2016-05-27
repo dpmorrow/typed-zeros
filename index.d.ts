@@ -1,1 +1,2 @@
-export declare function zeros(shape: number[], dtype?: string) : any;
+declare function zeros(shape: number[], dtype?: string) : any;
+export = zeros;
