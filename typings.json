@@ -8,5 +8,8 @@
   },
   "ambientDevDependencies": {
     "node": "registry:dt/node#4.0.0+20160319033040"
+  },
+  "dependencies": {
+    "ndarray": "github:dpmorrow/typed-ndarray#3dff4d1"
   }
 }
